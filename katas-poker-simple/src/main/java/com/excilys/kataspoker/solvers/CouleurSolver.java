@@ -6,6 +6,9 @@ import com.excilys.kataspoker.model.Score;
 
 public class CouleurSolver {
 
+
+
+
 	public static Score calcul(Main main) throws NotEnoughCardsException {
 		return null;
 	}
