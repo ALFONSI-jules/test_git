@@ -6,6 +6,9 @@ import java.util.Comparator;
 import java.util.List;
 
 
+
+
+
 public class Paquet {
 	private List<Carte> cartes = new ArrayList<>();
 
