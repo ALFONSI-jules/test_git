@@ -15,6 +15,9 @@ public enum Valeur {
 	ROI(12, "Roi"),
 	AS(13, "As");
 	
+
+
+	
 	private int ordre;
 	private String nom;
 	
