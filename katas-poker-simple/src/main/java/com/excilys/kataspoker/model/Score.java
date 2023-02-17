@@ -2,6 +2,9 @@ package com.excilys.kataspoker.model;
 
 public class Score {
 
+
+
+
 	private Combinaison combinaison;
 	private Carte carteHaute;
 	
